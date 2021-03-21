@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amoxe200
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Computer Science & Android Developement
+- 📫 How to reach me : Contact me here 
