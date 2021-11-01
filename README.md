@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Amoxe200
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning Computer Science & Android Developement
-- 📫 How to reach me : Contact me here 
+- 🌱 I’m currently learning Computer Science & Web Developement
+- 📫 How to reach me : aimanaqari@gmail.com
